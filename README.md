@@ -1,3 +1,36 @@
+# Weather App
+
+A simple React-based weather application that allows users to fetch weather information by entering a city name or using their current location. The app utilizes the WeatherAPI to fetch and display weather data.
+
+## Features
+
+- **City Name Input**: Users can enter the name of a city to get the current weather information.
+- **Current Location**: Users can use their current geographic location to get weather data.
+- **Real-time Data**: Fetches the latest weather data from WeatherAPI.
+- **Error Handling**: Displays error messages for invalid city names or if location access is denied.
+
+## Technologies Used
+
+- **React**: Front-end library for building the user interface.
+- **React Bootstrap**: For styling and layout.
+- **WeatherAPI**: To fetch weather data.
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/MuhammadnAhmed/display-weather.git
+   cd weather-app
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+
+4. **Run the project**
+5. ```bash
+   npm run
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
